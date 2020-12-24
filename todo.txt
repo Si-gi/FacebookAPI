@@ -1,0 +1,10 @@
+Toutes les mentions de la page
+Promotion -> argent qu'on met + resultat
+
+Page state ?
+
+twitter à y penser à inclure
+
+https://developers.facebook.com/docs/messenger-platform/getting-started/webhook-setup -- deployer
+https://developers.facebook.com/docs/messenger-platform/getting-started/app-setup
+https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start
